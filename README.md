@@ -26,3 +26,9 @@
 
 **Chapter 8:** 
 > Time Series Analysis, examines various aspects of time series modeling using Pandas and statsmodels. Initially, the important concepts of smoothing, resampling, rolling estimates, and stationarity are covered. Later, autoregressive (AR), moving average (MA), and combined ARIMA models are explained and applied to one of the data sets, including making shorter forecasts using the constructed models.
+
+
+
+
+
+`Copyright © 2016 PacktPublishing`
